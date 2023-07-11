@@ -1,0 +1,10 @@
+baba = 8 thn lebih muda di banding biba
+biba = 34 thn lebih tua dari baba
+
+jika dijumlahkan baba, biba dan baki 119,
+umur baba dan baki?
+
+34+26=60
+119-60=59
+26+59=85
+
